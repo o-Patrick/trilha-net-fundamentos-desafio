@@ -1,3 +1,8 @@
+# Nota
+O text abaixo foi mantido idêntico ao original do instrutor Leonardo Buta para fins didáticos.
+
+O projeto está finalizado.
+
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
