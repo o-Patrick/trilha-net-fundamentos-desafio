@@ -1,5 +1,5 @@
 # Nota
-O text abaixo foi mantido idêntico ao original do instrutor Leonardo Buta para fins didáticos.
+O texto abaixo foi mantido idêntico ao original do instrutor Leonardo Buta para fins didáticos.
 
 O projeto está finalizado.
 
